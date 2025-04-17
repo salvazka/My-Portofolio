@@ -35,7 +35,7 @@ Jika kamu ingin bekerja sama atau hanya sekadar ngobrol, silakan hubungi saya me
 
 ## 🚀 Live Website
 Klik link berikut untuk melihat website saya secara live:  
-🔗 [https://Sandy ramdahan.github.io/portfolio](https://salvazka.github.io/portfolio)
+🔗 [https://Sandy ramdahan.github.io/portfolio](https://salvazka.github.io/My-portfolio)
 
 
 ---
